@@ -1,8 +1,11 @@
 # Engine_training_data
 This will contain the training engine data from the NASA study.  
-# this is line 2
+# 
 
-###   below is a sample of a finished project ### This format will be used to build out my project. #####
+###   Below is a sample of a finished project 
+### This format will be used to build out my project. 
+##### The content below is from Lauren Lark's AirBNB Project. 
+#   Link to the actual repository: https://github.com/lalark/AirBNB_SQL_Project 
 # AirBNB_SQL_Project
 
 This is a simple project to showcase my SQL skills using a Seattle AirBnb dataset. After loading in the data, [which is publicly available](https://www.kaggle.com/airbnb/seattle), I created my own rating system to classify Air BnB listings as positive, negative, or neutral. I then grouped and ranked each listing to determine how good or bad (or neutral) they were. At the end I had a little Christmas themed fun practicing other SQL skills.
