@@ -8,8 +8,22 @@ This is a simple project to showcase my SQL skills using NASA [PCoE Datasets](ht
 
 ## Table of Contents (Queries):
 1. [Loading in Data](https://github.com/fischtank44/Engine_training_data/blob/master/Import_engine_data.txt)
+2. [CSV file for SQL Upload](https://github.com/fischtank44/Engine_training_data/raw/master/train_FD001-variation%20formulas.csv)
+3. 
 
 ------------------------ Below is working file ------------------------
+The following are the requirements for the project. 
+
+Load data into a SQL database FROM text files - Done.
+SUM, AVG and GROUP BY 
+CASE
+WHERE, HAVING
+ORDER BY
+JOIN
+UNION
+SUBQUERY
+
+
 
 2. [Identifying Reviews as Positive, Negative, or Neutral](https://github.com/lalark/AirBNB_SQL_Project/tree/master/identify_review_quality)
 3. [Evaluating Listings and Reviews Together with a Left Join](https://github.com/lalark/AirBNB_SQL_Project/tree/master/join_listings_reviews)
