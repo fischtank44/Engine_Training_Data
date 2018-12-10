@@ -6,9 +6,11 @@ This will contain the training engine data from the NASA study.
 This is a simple project to showcase my SQL skills using NASA [PCoE Datasets](https://ti.arc.nasa.gov/tech/dash/groups/pcoe/prognostic-data-repository/). This dataset is the publicly available: [Turbofan Engine Degradation Simulation Data Set](https://ti.arc.nasa.gov/tech/dash/groups/pcoe/prognostic-data-repository/publications/#turbofan).
 
 
------------------------- Below is working file ------------------------
 ## Table of Contents (Queries):
-1. [Loading in Data](https://github.com/lalark/AirBNB_SQL_Project/tree/master/create_table_load_data)
+1. [Loading in Data](https://github.com/fischtank44/Engine_training_data/blob/master/Import_engine_data.txt)
+
+------------------------ Below is working file ------------------------
+
 2. [Identifying Reviews as Positive, Negative, or Neutral](https://github.com/lalark/AirBNB_SQL_Project/tree/master/identify_review_quality)
 3. [Evaluating Listings and Reviews Together with a Left Join](https://github.com/lalark/AirBNB_SQL_Project/tree/master/join_listings_reviews)
 4. [Grouping the Reviews for Each Listing by Quality](https://github.com/lalark/AirBNB_SQL_Project/tree/master/group_review_quality_by_listing)
