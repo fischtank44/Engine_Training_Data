@@ -1,14 +1,25 @@
 # Engine_training_data
 This will contain the training engine data from the NASA study.  
 # 
-
-###   Below is a sample of a finished project 
 ### This format will be used to build out my project. 
+
+This is a simple project to showcase my SQL skills using NASA [PCoE Datasets](https://ti.arc.nasa.gov/tech/dash/groups/pcoe/prognostic-data-repository/). This dataset is the publicly available: [Turbofan Engine Degradation Simulation Data Set](https://ti.arc.nasa.gov/tech/dash/groups/pcoe/prognostic-data-repository/publications/#turbofan).
+
+
+------------------------ Below is working file ------------------------
+## Table of Contents (Queries):
+1. [Loading in Data](https://github.com/lalark/AirBNB_SQL_Project/tree/master/create_table_load_data)
+2. [Identifying Reviews as Positive, Negative, or Neutral](https://github.com/lalark/AirBNB_SQL_Project/tree/master/identify_review_quality)
+3. [Evaluating Listings and Reviews Together with a Left Join](https://github.com/lalark/AirBNB_SQL_Project/tree/master/join_listings_reviews)
+4. [Grouping the Reviews for Each Listing by Quality](https://github.com/lalark/AirBNB_SQL_Project/tree/master/group_review_quality_by_listing)
+5. [Comparing the Average Rating of Each Listing to the Mean](https://github.com/lalark/AirBNB_SQL_Project/tree/master/rating_variance_from_mean)
+6. [Seattle Christmas 2016 Availability](https://github.com/lalark/AirBNB_SQL_Project/tree/master/christmas_2016_availabiliy)
+7. [Listings in Even Months](https://github.com/lalark/AirBNB_SQL_Project/tree/master/union_even_months)
+
+
 ##### The content below is from Lauren Lark's AirBNB Project. 
 #   Link to the actual repository: https://github.com/lalark/AirBNB_SQL_Project 
-# AirBNB_SQL_Project
-
-This is a simple project to showcase my SQL skills using a Seattle AirBnb dataset. After loading in the data, [which is publicly available](https://www.kaggle.com/airbnb/seattle), I created my own rating system to classify Air BnB listings as positive, negative, or neutral. I then grouped and ranked each listing to determine how good or bad (or neutral) they were. At the end I had a little Christmas themed fun practicing other SQL skills.
+# Title of project
 
 After creating my queries, I pulled the data into Tableau and [created visualizations](https://public.tableau.com/profile/lauren6174#!/vizhome/SeattleAirBnBReviewQualityViz/Dashboard1) to better tell the story of my rating system as it relates to Seattle Air BnB listings.
 
