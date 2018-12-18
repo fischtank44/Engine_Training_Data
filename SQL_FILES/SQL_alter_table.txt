@@ -1,0 +1,3 @@
+
+ALTER TABLE engine_test_data_test01
+RENAME remaining_life TO max_cycles_per_engine;
