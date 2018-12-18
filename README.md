@@ -15,7 +15,7 @@ This is a simple project to showcase my SQL skills using NASA [PCoE Datasets](ht
 The following are the requirements for the project. 
 
 Load data into a SQL database FROM text files - Done.
-SUM, AVG and GROUP BY 
+SUM, AVG and GROUP BY - Done. 
 CASE
 WHERE, HAVING
 ORDER BY
