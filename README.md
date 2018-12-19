@@ -8,7 +8,7 @@ This is a simple project to showcase my SQL skills using NASA [PCoE Datasets](ht
 
 ## Table of Contents (Queries):
 1. [Loading in Data](https://github.com/fischtank44/Engine_training_data/blob/master/SQL_FILES/Import_engine_data.txt)
-2. [CSV file for SQL Upload](https://github.com/fischtank44/Engine_training_data/raw/master/train_FD001-variation%20formulas.csv)
+2. [CSV file for SQL Upload](https://github.com/fischtank44/Engine_training_data/blob/master/train_FD001-variation%20formulas.csv)
 3. [SQL text for SUM, AVG, GROUP BY](https://github.com/fischtank44/Engine_training_data/blob/master/SQL_FILES/SQL_sample_STD_DEV.sql)
 4. [SQL text for ALTER TABLE](https://github.com/fischtank44/Engine_training_data/blob/master/SQL_FILES/SQL_alter_table.txt)
 5. [SQL text for CASE](https://github.com/fischtank44/Engine_training_data/blob/master/SQL_FILES/CASE_find_last_10.sql)
