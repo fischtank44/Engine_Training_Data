@@ -15,82 +15,58 @@ This is a simple project to showcase my SQL skills using NASA [PCoE Datasets](ht
 6. [SQL text for WHERE and HAVING](https://github.com/fischtank44/Engine_training_data/blob/master/SQL_FILES/SQL_WHERE_HAVING.sql)
 
 ------------------------ Below is working file ------------------------
-The following are the requirements for the project. 
 
-Load data into a SQL database FROM text files - Done.
-SUM, AVG and GROUP BY - Done. 
-CASE
-WHERE, HAVING
-ORDER BY
-JOIN
-UNION
-SUBQUERY
+7. ORDER BY
+8. JOIN
+9. UNION
+10. SUBQUERY
 
+----------------Above are the items left to demo ----------
 
-
-2. [Identifying Reviews as Positive, Negative, or Neutral](https://github.com/lalark/AirBNB_SQL_Project/tree/master/identify_review_quality)
-3. [Evaluating Listings and Reviews Together with a Left Join](https://github.com/lalark/AirBNB_SQL_Project/tree/master/join_listings_reviews)
-4. [Grouping the Reviews for Each Listing by Quality](https://github.com/lalark/AirBNB_SQL_Project/tree/master/group_review_quality_by_listing)
-5. [Comparing the Average Rating of Each Listing to the Mean](https://github.com/lalark/AirBNB_SQL_Project/tree/master/rating_variance_from_mean)
-6. [Seattle Christmas 2016 Availability](https://github.com/lalark/AirBNB_SQL_Project/tree/master/christmas_2016_availabiliy)
-7. [Listings in Even Months](https://github.com/lalark/AirBNB_SQL_Project/tree/master/union_even_months)
-
-
-##### The content below is from Lauren Lark's AirBNB Project. 
-#   Link to the actual repository: https://github.com/lalark/AirBNB_SQL_Project 
-# Title of project
-
-After creating my queries, I pulled the data into Tableau and [created visualizations](https://public.tableau.com/profile/lauren6174#!/vizhome/SeattleAirBnBReviewQualityViz/Dashboard1) to better tell the story of my rating system as it relates to Seattle Air BnB listings.
 
 ## Table of Contents (Queries):
-1. [Loading in Data](https://github.com/lalark/AirBNB_SQL_Project/tree/master/create_table_load_data)
-2. [Identifying Reviews as Positive, Negative, or Neutral](https://github.com/lalark/AirBNB_SQL_Project/tree/master/identify_review_quality)
-3. [Evaluating Listings and Reviews Together with a Left Join](https://github.com/lalark/AirBNB_SQL_Project/tree/master/join_listings_reviews)
-4. [Grouping the Reviews for Each Listing by Quality](https://github.com/lalark/AirBNB_SQL_Project/tree/master/group_review_quality_by_listing)
-5. [Comparing the Average Rating of Each Listing to the Mean](https://github.com/lalark/AirBNB_SQL_Project/tree/master/rating_variance_from_mean)
-6. [Seattle Christmas 2016 Availability](https://github.com/lalark/AirBNB_SQL_Project/tree/master/christmas_2016_availabiliy)
-7. [Listings in Even Months](https://github.com/lalark/AirBNB_SQL_Project/tree/master/union_even_months)
 
 ## Table of Contents (Skills):
 * Create Schema, Create Table, Copy Data
-  * [Example 1](https://github.com/lalark/AirBNB_SQL_Project/tree/master/create_table_load_data)
-* Select Distinct
-  * [Example 1](https://github.com/lalark/AirBNB_SQL_Project/tree/master/christmas_2016_availabiliy)
+  * [Example 1]
+  * Select Distinct
+  * [Example 1]
 * Count
-  * [Example 1](https://github.com/lalark/AirBNB_SQL_Project/tree/master/identify_review_quality)
+  * [Example 1]
 * Case
-  * [Example 1](https://github.com/lalark/AirBNB_SQL_Project/blob/master/group_review_quality_by_listing/group_review_quality_by_listing.txt)
-  * [Example 2](https://github.com/lalark/AirBNB_SQL_Project/tree/master/identify_review_quality)
+  * [Example 1]
+  * [Example 2]
 * When / Like
-  * [Example 1](https://github.com/lalark/AirBNB_SQL_Project/blob/master/group_review_quality_by_listing/group_review_quality_by_listing.txt)
-  * [Example 2](https://github.com/lalark/AirBNB_SQL_Project/tree/master/identify_review_quality)
+  * [Example 1]
+  * [Example 2]
 * Subqueries
-  * [Example 1](https://github.com/lalark/AirBNB_SQL_Project/tree/master/rating_variance_from_mean)
+  * [Example 1]
 * Join
-  * [Example 1](https://github.com/lalark/AirBNB_SQL_Project/tree/master/christmas_2016_availabiliy)
-  * [Example 2](https://github.com/lalark/AirBNB_SQL_Project/blob/master/group_review_quality_by_listing/group_review_quality_by_listing.txt)
-  * [Example 3](https://github.com/lalark/AirBNB_SQL_Project/tree/master/join_listings_reviews)
-  * [Example 4](https://github.com/lalark/AirBNB_SQL_Project/tree/master/union_even_months)
+  * [Example 1]
+  * [Example 2]
+  * [Example 3]
+  * [Example 4]
 * Where
-  * [Example 1](https://github.com/lalark/AirBNB_SQL_Project/tree/master/christmas_2016_availabiliy)
+  * [Example 1]
 * With As
-  * [Example 1](https://github.com/lalark/AirBNB_SQL_Project/blob/master/group_review_quality_by_listing/group_review_quality_by_listing.txt)
-  * [Example 2](https://github.com/lalark/AirBNB_SQL_Project/tree/master/identify_review_quality)
-* Group By
-  * [Example 1](https://github.com/lalark/AirBNB_SQL_Project/blob/master/christmas_2016_availabiliy/christmas_2016_availabiliy.txt)
-  * [Example 2](https://github.com/lalark/AirBNB_SQL_Project/tree/master/identify_review_quality)
-  * [Example 3](https://github.com/lalark/AirBNB_SQL_Project/tree/master/rating_variance_from_mean)
+  * [Example 1]
+  * [Example 2]
+  * Group By
+  * [Example 1]
+  * [Example 2]
+  * [Example 3]
 * Order By
-  * [Example 1](https://github.com/lalark/AirBNB_SQL_Project/blob/master/group_review_quality_by_listing/group_review_quality_by_listing.txt)
+  * [Example 1]
 * Union
-  * [Example 1](https://github.com/lalark/AirBNB_SQL_Project/tree/master/union_even_months)
+  * [Example 1]
+  
   
 ## Visualizations
-* [Tableau Public Dashboard](https://public.tableau.com/profile/lauren6174#!/vizhome/SeattleAirBnBReviewQualityViz/Dashboard1)
-* [Geography of Review Qualiy Listings](https://public.tableau.com/profile/lauren6174#!/vizhome/SeattleAirBnBReviewQualityVizMap/GeographicDistributionofReviewQuality?publish=yes)
+* [Correlation Checker](https://public.tableau.com/profile/steven.fischbach#!/vizhome/Finalproject-correlationonly/CorrelationChecker)
+* [Tableau Public Dashboard](https://public.tableau.com/profile/steven.fischbach#!/vizhome/Finalproject-v1_7wBPR/Playbyplayforward)
+* [Test Data Visualizations](https://public.tableau.com/profile/steven.fischbach#!/vizhome/FinalProject-testofthetestdata/BigFormulaTestSheet)
+ 
 
 
-## A Note on my Data:
-* I did need to make a few slight alterations to the downloaded dataset in order to properly load:
-  * Modified  the listings.csv file to relace "" with nothing for NULLs.
-  * Fixed one line where there was a carriage return that split a number value.   There are lines where there is a carriage return in the some of the text values but that seems to not cause a problem for the create and load script so I left those.  It means there will be carriage returns in the values of some of the columns in the listings table in your database but presumably that will not cause a problem.
+## Notes:
+
