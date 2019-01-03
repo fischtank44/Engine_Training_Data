@@ -8,7 +8,7 @@ These files demonstrate analysis of data from a NASA study of turbofan engine fa
 1. [Loading in Data](https://github.com/fischtank44/Engine_training_data/blob/master/SQL_FILES/Import_engine_data.txt)
 2. [CSV file for SQL Upload](https://github.com/fischtank44/Engine_training_data/blob/master/train_FD001-variation%20formulas.csv)
 
-## SQL Queries:
+## SQL Queries: [SQL Files](https://github.com/fischtank44/Engine_training_data/tree/master/SQL_FILES)
 3. [SUM, AVG, SUBQUERY, ORDER BY and GROUP BY](https://github.com/fischtank44/Engine_training_data/blob/master/SQL_FILES/SQL_sample_STD_DEV.sql)
 4. [ALTER TABLE](https://github.com/fischtank44/Engine_training_data/blob/master/SQL_FILES/SQL_alter_table.txt)
 5. [CASE](https://github.com/fischtank44/Engine_training_data/blob/master/SQL_FILES/CASE_find_last_10.sql)
