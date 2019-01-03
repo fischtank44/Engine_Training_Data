@@ -25,44 +25,6 @@ This is a simple project to showcase my SQL skills using NASA [PCoE Datasets](ht
 * [Test Data Visualizations](https://public.tableau.com/profile/steven.fischbach#!/vizhome/FinalProject-testofthetestdata/BigFormulaTestSheet)
 
 
----------------------------------------------
-## Table of Contents (Skills):
-* Create Schema, Create Table, Copy Data
-  * [Example 1]
-  * Select Distinct
-  * [Example 1]
-* Count
-  * [Example 1]
-* Case
-  * [Example 1]
-  * [Example 2]
-* When / Like
-  * [Example 1]
-  * [Example 2]
-* Subqueries
-  * [Example 1]
-* Join
-  * [Example 1]
-  * [Example 2]
-  * [Example 3]
-  * [Example 4]
-* Where
-  * [Example 1]
-* With As
-  * [Example 1]
-  * [Example 2]
-  * Group By
-  * [Example 1]
-  * [Example 2]
-  * [Example 3]
-* Order By
-  * [Example 1]
-* Union
-  * [Example 1]
-  
-  
-
- 
 
 
 ## Notes:
