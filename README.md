@@ -17,8 +17,7 @@ These files demonstrate analysis of data from a NASA study of turbofan engine fa
 8. [UNION](https://github.com/fischtank44/Engine_training_data/blob/master/SQL_FILES/SQL_union_test_rul.sql)
 
 
-## Excel Data:
-* [Excel Files](https://github.com/fischtank44/Engine_training_data/tree/master/Excel_data)
+## Excel Data: [Excel Data](https://github.com/fischtank44/Engine_training_data/tree/master/Excel_data)
 
 * [LOOKUP](https://github.com/fischtank44/Engine_training_data/raw/master/Excel_data/test_FD001_headers_var_v4.xlsx) Used to create the ramining_life column.
 * Pivot table
