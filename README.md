@@ -20,7 +20,7 @@ These files demonstrate analysis of data from a NASA study of turbofan engine fa
 ## Excel Data:
 * [Excel Files](https://github.com/fischtank44/Engine_training_data/tree/master/Excel_data)
 
-* LOOKUP
+* [LOOKUP](https://github.com/fischtank44/Engine_training_data/raw/master/Excel_data/test_FD001_headers_var_v4.xlsx) Used to create the ramining_life column.
 * Pivot table
 
 ## Visualizations
