@@ -7,7 +7,7 @@ The training set of data contains 100 engines (units). Each engine was run until
 
 # Additional Columns Created in Training Data
 The data had a large amount of noise from one cycle to the next. Analysis, therefore, required additional columns to be created. Excel functions were used to create them. 
-[Training_Data_File](https://github.com/fischtank44/Engine_training_data/raw/master/Excel_data/train_FD001-variation%20formulas.xlsx)
+[Training_Data_File](https://github.com/fischtank44/Engine_training_data/raw/master/Excel_data/train_FD001-variation%20formulas_v4.xlsx)
 
 1. W32_LPT_cool_bl_min: This value fell over time. The column tracked the min value recorded for the engine. 
 2. T50_LPT_max: This value rises over time. The column tracked the max value recorded for the engine.
