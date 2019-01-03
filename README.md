@@ -21,7 +21,7 @@ This is a simple project to showcase my SQL skills using NASA [PCoE Datasets](ht
 
 ## Visualizations
 * [Correlation Checker](https://public.tableau.com/profile/steven.fischbach#!/vizhome/Finalproject-correlationonly/CorrelationChecker)
-* [Tableau Public Dashboard](https://public.tableau.com/profile/steven.fischbach#!/vizhome/Finalproject-v1_7wBPR/Playbyplayforward)
+* [Training Data Visualizations](https://public.tableau.com/profile/steven.fischbach#!/vizhome/Finalproject-v1_7wBPR/Playbyplayforward)
 * [Test Data Visualizations](https://public.tableau.com/profile/steven.fischbach#!/vizhome/FinalProject-testofthetestdata/BigFormulaTestSheet)
 
 
