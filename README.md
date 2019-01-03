@@ -1,5 +1,6 @@
 # Engine_training_data
-This will contain the training engine data from the NASA study.  
+These files demonstrate my analysis of data from a NASA study of turbofan engine failures. This analysis is a front to back evaluation of the data beginning by using SQL to extract data, excel to clean data, analyizing data in Tableau. Finally, two outputs are provided. The first is a predictive formula that attempts to provide an estimate of cycles remaining and the second is a real time assesment of the engines current health using visualizations. 
+
 # 
 ### This format will be used to build out my project. 
 
