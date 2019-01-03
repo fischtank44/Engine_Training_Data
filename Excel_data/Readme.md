@@ -21,6 +21,7 @@ The data had a large amount of noise from one cycle to the next. Analysis, there
 
 # Test Data
 The Test data set also contains 100 engines (units). These engines are measured in the same way, however, the cycles were randomly terminated before the unit was going to fail. The range of cycles remaining had an average of 75.5 with a minimum of 7 and a maximum of 145 cycles before failure. The test data did not have the number of cycles until failure included with it. That data was added on for analysis.
+[Test Data File](https://github.com/fischtank44/Engine_training_data/raw/master/Excel_data/test_FD001_headers_var_v4.xlsx)
 
 1. W32_LPT_cool_bl_min: This value was not found to be useful and was removed. 
 2. T50_LPT_max: This value rises over time. The column tracked the max value recorded for the engine.
