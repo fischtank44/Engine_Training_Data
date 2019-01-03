@@ -20,6 +20,9 @@ These files demonstrate analysis of data from a NASA study of turbofan engine fa
 ## Excel Data:
 * [Excel Files](https://github.com/fischtank44/Engine_training_data/tree/master/Excel_data)
 
+* LOOKUP
+* Pivot table
+
 ## Visualizations
 * [Correlation Checker](https://public.tableau.com/profile/steven.fischbach#!/vizhome/Finalproject-correlationonly/CorrelationChecker)
 * [Training Data Visualizations](https://public.tableau.com/profile/steven.fischbach#!/vizhome/Finalproject-v1_7wBPR/Playbyplayforward)
