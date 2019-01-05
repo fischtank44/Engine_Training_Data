@@ -22,7 +22,7 @@ These files demonstrate analysis of data from a NASA study of turbofan engine fa
 * [LOOKUP](https://github.com/fischtank44/Engine_training_data/raw/master/Excel_data/test_FD001_headers_var_v4.xlsx) 
 * [Pivot table](https://github.com/fischtank44/Engine_training_data/raw/master/Excel_data/train_FD001-variation%20formulas_v4.xlsx) 
 
-## Visualizations Links go to Tableau Public Page
+## Visualizations: Links go to Tableau Public Page
 * [Correlation Checker](https://public.tableau.com/profile/steven.fischbach#!/vizhome/Finalproject-correlationonly/CorrelationChecker)
 * [Training Data Visualizations](https://public.tableau.com/profile/steven.fischbach#!/vizhome/Finalproject-v1_7wBPR/Playbyplayforward)
 * [Test Data Visualizations](https://public.tableau.com/profile/steven.fischbach#!/vizhome/FinalProject-testofthetestdata/BigFormulaTestSheet)
