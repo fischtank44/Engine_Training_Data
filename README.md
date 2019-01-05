@@ -20,7 +20,7 @@ These files demonstrate analysis of data from a NASA study of turbofan engine fa
 ## Excel Data: [Excel Data](https://github.com/fischtank44/Engine_training_data/tree/master/Excel_data) <-- Click here for details.
 
 * [LOOKUP](https://github.com/fischtank44/Engine_training_data/raw/master/Excel_data/test_FD001_headers_var_v4.xlsx) Used to create the ramining_life column.
-* [Pivot table](https://github.com/fischtank44/Engine_training_data/raw/master/Excel_data/train_FD001-variation%20formulas_v4.xlsx) This file has a pivot table that shows two of the predictive parameters. T50 LPT variation (rises as the unit approaches end of life) and W32 variation (falls as unit approaches end of life).
+* [Pivot table](https://github.com/fischtank44/Engine_training_data/raw/master/Excel_data/train_FD001-variation%20formulas_v4.xlsx) 
 
 ## Visualizations
 * [Correlation Checker](https://public.tableau.com/profile/steven.fischbach#!/vizhome/Finalproject-correlationonly/CorrelationChecker)
