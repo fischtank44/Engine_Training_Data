@@ -5,6 +5,9 @@ These files show the data after it has been extracted from SQL database.
 # Training Set
 The training set of data contains 100 engines (units). Each engine was run until it failed. Measurements from sensors on the engine where recored once and only once during each cycle. A cycle is defined as a take-off and landing. Each row of data represents a single cycle and the max time cycles for each unit is the number of cycles that an engine ran before failing (eg. Unit 1 ran for 192 cycles before failing, Unit 2 ran for 287 cycles before failing).
 
+# [Pivot Table]()
+This file has a pivot table that shows two of the predictive parameters. T50 LPT variation (rises as the unit approaches end of life) and W32 variation (falls as unit approaches end of life).
+
 # Additional Columns Created in Training Data
 The data had a large amount of noise from one cycle to the next. Analysis, therefore, required additional columns to be created. Excel functions were used to create them. 
 [Training Data File](https://github.com/fischtank44/Engine_training_data/raw/master/Excel_data/train_FD001-variation%20formulas_v4.xlsx)
