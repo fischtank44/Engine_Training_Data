@@ -1,6 +1,6 @@
 BEGIN;
 
--- add a statement to drop the public.airline_on_time_west_coast table or delete all data from it if it exists
+-- this file will add the public schema and add the training data to SQL
 
 CREATE SCHEMA IF NOT EXISTS public;
 
@@ -53,7 +53,7 @@ COMMIT;
 -------------------------
 BEGIN;
 
--- add a statement to drop the public.airline_on_time_west_coast table or delete all data from it if it exists
+-- this file will add the public schema and add the test data to SQL
 
 CREATE SCHEMA IF NOT EXISTS public;
 
