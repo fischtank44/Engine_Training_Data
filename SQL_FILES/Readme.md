@@ -1,5 +1,5 @@
 # SQL Query Examples
-Some of these queries were conducted for the analysis and some where performed to demonstrate skills learned in class. 
+Some of these queries were conducted for the analysis and some where performed to demonstrate SQL querry skills. 
 
 1. [SUM, AVG, SUBQUERY, ORDER BY and GROUP BY](https://github.com/fischtank44/Engine_training_data/blob/master/SQL_FILES/SQL_sample_STD_DEV.sql)
    This SQL query contains a combination of SUM, AVG, SUBQUERY, ORDER BY, and GROUP BY. This querry will calculate the maximum number of cycles for each of the 100 engines. It will also calculate the variation of the engine life, compared to the sample of all engines. It will also calculate the standard deviation of the engine life for each engine. 
