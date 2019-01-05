@@ -8,7 +8,7 @@ The training set of data contains 100 engines (units). Each engine was run until
 # [Pivot Table](https://github.com/fischtank44/Engine_training_data/raw/master/Excel_data/train_FD001-variation%20formulas_v4.xlsx)
 This file has a pivot table that shows two of the predictive parameters. T50 LPT variation (rises as the unit approaches end of life) and W32 variation (falls as unit approaches end of life).
 
-# [Vlookup](  )
+# [Vlookup](https://github.com/fischtank44/Engine_training_data/raw/master/Excel_data/test_FD001_headers_var_v4.xlsx)
 Used to create the ramining_life column.
 
 ## Additional Columns Created in Training Data
