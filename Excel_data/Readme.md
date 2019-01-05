@@ -9,7 +9,7 @@ The training set of data contains 100 engines (units). Each engine was run until
 This file has a pivot table that shows two of the predictive parameters. T50 LPT variation (rises as the unit approaches end of life) and W32 variation (falls as unit approaches end of life).
 
 # [Vlookup](  )
-
+Used to create the ramining_life column.
 
 ## Additional Columns Created in Training Data
 The data had a large amount of noise from one cycle to the next. Analysis, therefore, required additional columns to be created. Excel functions were used to create them. 
