@@ -28,7 +28,3 @@ These files demonstrate analysis of data from a NASA study of turbofan engine fa
 * [Test Data Visualizations](https://public.tableau.com/profile/steven.fischbach#!/vizhome/FinalProject-testofthetestdata/BigFormulaTestSheet)
 
 
-
-
-## Notes:
-
