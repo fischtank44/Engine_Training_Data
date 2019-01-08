@@ -1,9 +1,9 @@
 # Readme for Data Files
 
-## Summart of Dataset Used in this project.
+## Summary of Dataset Used in this project.
 Data Set: FD001
-Train trjectories: 100  <-- This file is the training set used in this project.
-Test trajectories: 100  <-- This file is the test set used in this project.
+Train trjectories: 100  <-- This is the training set used.
+Test trajectories: 100  <-- This is the test set used.
 Conditions: ONE (Sea Level)
 Fault Modes: ONE (HPC Degradation)
 
