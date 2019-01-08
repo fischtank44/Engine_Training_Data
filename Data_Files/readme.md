@@ -3,7 +3,7 @@
 ## Summary of Dataset Used in this project.
 Data Set: FD001
 
-Train trjectories: 100  <-- This is the training set used.
+Train trajectories: 100  <-- This is the training set used.
 
 Test trajectories: 100  <-- This is the test set used.
 
