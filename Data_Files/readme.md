@@ -2,7 +2,7 @@
 
 ## Summary of Dataset Used in this project.
 
-###Data Set: FD001
+Data Set: FD001
 Train trajectories: 100  <-- This is the training set used.
 
 Test trajectories: 100  <-- This is the test set used.
@@ -12,7 +12,7 @@ Conditions: ONE (Sea Level)
 Fault Modes: ONE (HPC Degradation)
 
 
-##Experimental Scenario
+Experimental Scenario
 
 Data sets consists of multiple multivariate time series. Each data set is further divided into training and test subsets. Each time series is from a different engine  i.e., the data can be considered to be from a fleet of engines of the same type. Each engine starts with different degrees of initial wear and manufacturing variation which is unknown to the user. This wear and variation is considered normal, i.e., it is not considered a fault condition. There are three operational settings that have a substantial effect on engine performance. These settings are also included in the data. The data is contaminated with sensor noise.
 
