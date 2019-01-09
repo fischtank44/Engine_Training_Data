@@ -1,3 +1,6 @@
+-- adds a new table that contains the remaining useful life values
+-- for each of the 100 engines in the test data
+
 CREATE TABLE test_rul_fd01(
    unit_num INTEGER  NOT NULL PRIMARY KEY 
   ,rul      INTEGER  NOT NULL
