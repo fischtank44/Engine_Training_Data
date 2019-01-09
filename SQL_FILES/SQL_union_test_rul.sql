@@ -1,3 +1,6 @@
+-- adds the remaining useful life to the test data table as well
+-- uses union for the join
+
 select unit_num, rul
 from test_rul_fd01
 
