@@ -42,3 +42,5 @@ Using Tableau for Data Analysis
 [Correlation](https://public.tableau.com/profile/steven.fischbach#!/vizhome/Finalproject-correlationonly/CorrelationChecker?publish=yes) The correlation visualization is a graph that plots each parameter against all of the other parameters. The field “Cycles To Fail” shows the countdown to the failure of the engine. When the “Cycles To Fail” reaches zero the engine has failed. 
 
 ![alt text](https://github.com/fischtank44/Engine_training_data/blob/master/Visualizations/images/Corr.JPG)
+
+
