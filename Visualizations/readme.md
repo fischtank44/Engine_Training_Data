@@ -9,11 +9,9 @@
 * [Parameter](https://public.tableau.com/profile/steven.fischbach#!/vizhome/Finalproject-v2_0/PredictionChart?publish=yes)
 ![alt text](https://github.com/fischtank44/Engine_training_data/blob/master/Visualizations/images/Parameter%20Last%20N.JPG)
 
-* [Dashboard](https://public.tableau.com/profile/steven.fischbach#!/vizhome/Finalproject-v2_0/CautionsvsBigFormula?publish=yes)
+* [Dashboard with Actions](https://public.tableau.com/profile/steven.fischbach#!/vizhome/Finalproject-v2_0/CautionsvsBigFormula?publish=yes)
 ![alt text](https://github.com/fischtank44/Engine_training_data/blob/master/Visualizations/images/Dashboard%20w-actions.JPG)
 
-* [Dashboard Actions](https://public.tableau.com/profile/steven.fischbach#!/vizhome/Finalproject-v2_0/CautionsvsBigFormula?publish=yes)
-![alt text](https://github.com/fischtank44/Engine_training_data/blob/master/Visualizations/images/Dashboard%20w-actions.JPG)
 
 
 # Analysis of Engine Data
