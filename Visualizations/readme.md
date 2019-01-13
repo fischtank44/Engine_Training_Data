@@ -3,7 +3,7 @@
 * [Join or Blend](https://public.tableau.com/profile/steven.fischbach#!/vizhome/FinalProject-TestDataDashboardv2_0/StatusMonitor) The test data had to be joined onto the Tableau build for the training data. The test data required cycles to fail data (provided in a seperate file) to be joined onto the test dataset.  
 ![alt text](https://github.com/fischtank44/Engine_training_data/blob/master/Visualizations/images/Blend.JPG)
 
-* [Filter](https://public.tableau.com/profile/steven.fischbach#!/vizhome/Finalproject-v2_0/Playbyplayforward?publish=yes) Filters for Unit, Cycles To Fail, All Cautions, and Time(Cycles) were used to provide extra information for the user. 
+* [Filter](https://github.com/fischtank44/Engine_training_data/blob/master/Visualizations/images/Filters%20lots%20of%20filters.JPG) Filters for Unit, Cycles To Fail, All Cautions, and Time(Cycles) were used to provide extra information for the user. 
 ![alt text](https://github.com/fischtank44/Engine_training_data/blob/master/Visualizations/images/Filter%20example.JPG)
 
 * [Parameter](https://public.tableau.com/profile/steven.fischbach#!/vizhome/Finalproject-v2_0/PredictionChart?publish=yes) Several visualizations used a parameter called Last N. It reduces the number of data points to the last n number of observations in the cycle. 
