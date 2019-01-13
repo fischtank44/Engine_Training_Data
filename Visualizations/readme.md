@@ -1,15 +1,15 @@
 # Visualizations in Tableau
 
-* [Join or Blend](https://public.tableau.com/profile/steven.fischbach#!/vizhome/FinalProject-TestDataDashboardv2_0/StatusMonitor)
+* [Join or Blend](https://public.tableau.com/profile/steven.fischbach#!/vizhome/FinalProject-TestDataDashboardv2_0/StatusMonitor) The test data had to be joined onto the Tableau build for the training data. The test data had to have the cycles to fail data joined onto the dataset. 
 ![alt text](https://github.com/fischtank44/Engine_training_data/blob/master/Visualizations/images/Blend.JPG)
 
-* [Filter](https://public.tableau.com/profile/steven.fischbach#!/vizhome/Finalproject-v2_0/Playbyplayforward?publish=yes)
+* [Filter](https://public.tableau.com/profile/steven.fischbach#!/vizhome/Finalproject-v2_0/Playbyplayforward?publish=yes) Filters for Unit, Cycles To Fail, All Cautions, and Time(Cycles) were used to provide extra information for the user. 
 ![alt text](https://github.com/fischtank44/Engine_training_data/blob/master/Visualizations/images/Filter%20example.JPG)
 
-* [Parameter](https://public.tableau.com/profile/steven.fischbach#!/vizhome/Finalproject-v2_0/PredictionChart?publish=yes)
+* [Parameter](https://public.tableau.com/profile/steven.fischbach#!/vizhome/Finalproject-v2_0/PredictionChart?publish=yes) Several visualizations used a parameter called Last N. It reduces the number of data points to the last n number of observations in the cycle. 
 ![alt text](https://github.com/fischtank44/Engine_training_data/blob/master/Visualizations/images/Parameter%20Last%20N.JPG)
 
-* [Dashboard with Actions](https://public.tableau.com/profile/steven.fischbach#!/vizhome/Finalproject-v2_0/CautionsvsBigFormula?publish=yes)
+* [Dashboard with Actions](https://public.tableau.com/profile/steven.fischbach#!/vizhome/Finalproject-v2_0/CautionsvsBigFormula?publish=yes) Dashboard contains Time(Cycles) as a page that will step through the observations in sequence from beginning to the end of the observations. 
 ![alt text](https://github.com/fischtank44/Engine_training_data/blob/master/Visualizations/images/Dashboard%20w-actions.JPG)
 
 
