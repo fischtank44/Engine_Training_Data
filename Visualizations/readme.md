@@ -1,5 +1,23 @@
 # Visualizations in Tableau
-This project attempts to use the capabilities of Tableau to conduct Data Analysis including some prediction and real time data analysis. 
+
+* [Join or Blend](https://public.tableau.com/profile/steven.fischbach#!/vizhome/FinalProject-TestDataDashboardv2_0/StatusMonitor)
+![alt text](https://github.com/fischtank44/Engine_training_data/blob/master/Visualizations/images/Blend.JPG)
+
+* [Filter](https://public.tableau.com/profile/steven.fischbach#!/vizhome/Finalproject-v2_0/Playbyplayforward?publish=yes)
+![alt text](https://github.com/fischtank44/Engine_training_data/blob/master/Visualizations/images/Filter%20example.JPG)
+
+* [Parameter](https://public.tableau.com/profile/steven.fischbach#!/vizhome/Finalproject-v2_0/PredictionChart?publish=yes)
+![alt text](https://github.com/fischtank44/Engine_training_data/blob/master/Visualizations/images/Parameter%20Last%20N.JPG)
+
+* [Dashboard](https://public.tableau.com/profile/steven.fischbach#!/vizhome/Finalproject-v2_0/CautionsvsBigFormula?publish=yes)
+![alt text](https://github.com/fischtank44/Engine_training_data/blob/master/Visualizations/images/Dashboard%20w-actions.JPG)
+
+* [Dashboard Actions](https://public.tableau.com/profile/steven.fischbach#!/vizhome/Finalproject-v2_0/CautionsvsBigFormula?publish=yes)
+![alt text](https://github.com/fischtank44/Engine_training_data/blob/master/Visualizations/images/Dashboard%20w-actions.JPG)
+
+
+# Analysis of Engine Data
+The page will explore capabilities of Tableau to conduct Data Analysis including some prediction and real time data analysis. 
 
 This project had five goals:
 1.	Determine if Data Analysis on small datasets can be conducted in Tableau
@@ -13,11 +31,11 @@ Using Tableau for Data Analysis
 
 [Data Display](https://public.tableau.com/profile/steven.fischbach#!/vizhome/Finalproject-correlationonly/SuperDataDisplay?publish=yes) The first graph allows the user to select individual parameters from any or all of the engines at once. If the graph is predictive, then the values will rise or fall as they approach the left side of the graph. Parameters that are not predictive are candidates for removal.
 
-![alt text](   https://github.com/fischtank44/Engine_training_data/raw/master/Visualizations/images/All%20Engines%20T50%20LPT.JPG)
+![alt text](https://github.com/fischtank44/Engine_training_data/raw/master/Visualizations/images/All%20Engines%20T50%20LPT.JPG)
 
 [Show All Parameters By Unit](https://public.tableau.com/profile/steven.fischbach#!/vizhome/Finalproject-correlationonly/ShowAllParametersByUnit?publish=yes) This graph shows all of the parameters by individual unit. In this case the x axis shows the total number of cycles that the engine ran. Failure occurred on the right side of the graph. 
 
-![alt text](  https://github.com/fischtank44/Engine_training_data/raw/master/Visualizations/images/Show%20All%20by%20Unit%20eng%2062.JPG )
+![alt text](https://github.com/fischtank44/Engine_training_data/raw/master/Visualizations/images/Show%20All%20by%20Unit%20eng%2062.JPG )
 
 [Show Meaningful by Unit](https://public.tableau.com/profile/steven.fischbach#!/vizhome/Finalproject-correlationonly/ShowMeaningfulbyUnit?publish=yes) This series of graphs shows the parameters that appear to be predictive listed by engine. 
 
