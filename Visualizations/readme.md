@@ -21,7 +21,7 @@ This project had five goals:
 1.	Determine if Data Analysis on small datasets can be conducted in Tableau
 2.	Use visualizations to determine parameters that predict failure
 3.	Use visualizations in Tableau to perform predictive modeling
-4.	Use visualizations in Tableau to create “real time monitoring” tools
+4.	Use visualizations in Tableau to create “real time monitoring” tool
 5.	Create a visualization that combines predictive and real time models
 
 
