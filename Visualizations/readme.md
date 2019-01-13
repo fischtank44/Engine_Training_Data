@@ -1,6 +1,6 @@
 # Visualizations in Tableau
 
-* [Join or Blend](https://public.tableau.com/profile/steven.fischbach#!/vizhome/FinalProject-TestDataDashboardv2_0/StatusMonitor) The test data had to be joined onto the Tableau build for the training data. The test data had to have the cycles to fail data joined onto the dataset. 
+* [Join or Blend](https://public.tableau.com/profile/steven.fischbach#!/vizhome/FinalProject-TestDataDashboardv2_0/StatusMonitor) The test data had to be joined onto the Tableau build for the training data. The test data required cycles to fail data (provided in a seperate file) to be joined onto the test dataset.  
 ![alt text](https://github.com/fischtank44/Engine_training_data/blob/master/Visualizations/images/Blend.JPG)
 
 * [Filter](https://public.tableau.com/profile/steven.fischbach#!/vizhome/Finalproject-v2_0/Playbyplayforward?publish=yes) Filters for Unit, Cycles To Fail, All Cautions, and Time(Cycles) were used to provide extra information for the user. 
