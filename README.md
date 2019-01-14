@@ -23,16 +23,16 @@ These files demonstrate analysis of data from a NASA study of turbofan engine fa
 
 ## Excel Data: [Excel Data](https://github.com/fischtank44/Engine_training_data/tree/master/Excel_data) <-- Click here for details.
 
-* [LOOKUP](https://github.com/fischtank44/Engine_training_data/raw/master/Excel_data/test_FD001_headers_var_v4.xlsx) 
-* [Pivot table](https://github.com/fischtank44/Engine_training_data/raw/master/Excel_data/train_FD001-variation%20formulas_v4.xlsx) 
+1. [LOOKUP](https://github.com/fischtank44/Engine_training_data/raw/master/Excel_data/test_FD001_headers_var_v4.xlsx) 
+2. [Pivot table](https://github.com/fischtank44/Engine_training_data/raw/master/Excel_data/train_FD001-variation%20formulas_v4.xlsx) 
 
 
 ## Visualizations: [Tableau Discriptions](https://github.com/fischtank44/Engine_training_data/tree/master/Visualizations) <-- Click here for details.
 
-* [Join or Blend](https://public.tableau.com/profile/steven.fischbach#!/vizhome/FinalProject-TestDataDashboardv2_0/StatusMonitor)
-* [Filter](https://public.tableau.com/profile/steven.fischbach#!/vizhome/Finalproject-v2_0/Playbyplayforward?publish=yes)
-* [Parameter](https://public.tableau.com/profile/steven.fischbach#!/vizhome/Finalproject-v2_0/PredictionChart?publish=yes)
-* [Dashboard](https://public.tableau.com/profile/steven.fischbach#!/vizhome/Finalproject-v2_0/CautionsvsBigFormula?publish=yes)
-* [Dashboard Actions](https://public.tableau.com/profile/steven.fischbach#!/vizhome/Finalproject-v2_0/CautionsvsBigFormula?publish=yes)
+1. [Join or Blend](https://public.tableau.com/profile/steven.fischbach#!/vizhome/FinalProject-TestDataDashboardv2_0/StatusMonitor)
+2. [Filter](https://public.tableau.com/profile/steven.fischbach#!/vizhome/Finalproject-v2_0/Playbyplayforward?publish=yes)
+3. [Parameter](https://public.tableau.com/profile/steven.fischbach#!/vizhome/Finalproject-v2_0/PredictionChart?publish=yes)
+4. [Dashboard](https://public.tableau.com/profile/steven.fischbach#!/vizhome/Finalproject-v2_0/CautionsvsBigFormula?publish=yes)
+5. [Dashboard Actions](https://public.tableau.com/profile/steven.fischbach#!/vizhome/Finalproject-v2_0/CautionsvsBigFormula?publish=yes)
 
 
