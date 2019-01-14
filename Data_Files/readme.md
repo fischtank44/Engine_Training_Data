@@ -1,5 +1,3 @@
-# Readme for Data Files
-
 ## Summary of Dataset Used in this project.
 
 Data Set: FD001
