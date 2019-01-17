@@ -45,7 +45,7 @@ Using Tableau for Data Analysis
 
 
 [Final Dashboard Analysis](https://public.tableau.com/profile/steven.fischbach#!/vizhome/Finalproject-v2_0/W32withlevel)
-This is the final dashboard for the analysis portion of the analysis.
+This is the final dashboard for the analysis portion of the exercise.
 
 ![alt text](https://github.com/fischtank44/Engine_training_data/raw/master/Visualizations/images/Dashboard.png)
 
