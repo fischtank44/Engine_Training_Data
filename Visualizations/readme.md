@@ -44,3 +44,8 @@ Using Tableau for Data Analysis
 ![alt text](https://github.com/fischtank44/Engine_training_data/blob/master/Visualizations/images/Corr.JPG)
 
 
+[Final Dashboard Analysis](https://github.com/fischtank44/Engine_training_data/raw/master/Visualizations/images/Dashboard.png)
+This is the final dashboard for the analysis portion of the analysis.
+
+[Dashboard Using Test Set](https://github.com/fischtank44/Engine_training_data/raw/master/Visualizations/images/Test%20Data%20Dashboard.png)
+This dashboard is looking at the full test set of 100 engines. The data did not originally contain the information regarding how close each engine was to failure that information was added to the visualization for the purpose of demonstrating out close each prediction was to the truth.
