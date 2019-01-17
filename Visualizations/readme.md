@@ -50,6 +50,6 @@ This is the final dashboard for the analysis portion of the analysis.
 ![alt text](https://github.com/fischtank44/Engine_training_data/raw/master/Visualizations/images/Dashboard.png)
 
 [Dashboard Using Test Set](https://public.tableau.com/profile/steven.fischbach#!/vizhome/FinalProject-TestDataDashboardv2_0/StatusMonitor)
-This dashboard is looking at the full test set of 100 engines. The data did not originally contain the information regarding how close each engine was to failure that information was added to the visualization for the purpose of demonstrating out close each prediction was to the truth.
+This dashboard is looking at the full test set of 100 engines. The data did not originally contain the information regarding how close each engine was to failure that information was added to the visualization for the purpose of demonstrating out close each prediction was to the truth. The test set data was incomplete by design. Each engine run was randomly terminated early in order to provide a challenge for the prediction method. 
 
 ![alt text](https://github.com/fischtank44/Engine_training_data/raw/master/Visualizations/images/Test%20Data%20Dashboard.png)
