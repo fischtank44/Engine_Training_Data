@@ -18,7 +18,7 @@
 The page will explore capabilities of Tableau to conduct Data Analysis including some prediction and real time data analysis. 
 
 This project had five goals:
-1.	Determine if Data Analysis on small datasets can be conducted in Tableau
+1.	Determine if data analysis on small datasets can be conducted in Tableau
 2.	Use visualizations to determine parameters that predict failure
 3.	Use visualizations in Tableau to perform predictive modeling
 4.	Use visualizations in Tableau to create “real time monitoring” tool
