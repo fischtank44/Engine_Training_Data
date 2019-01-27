@@ -2,7 +2,7 @@
 These files show the data after it has been extracted from SQL database.
 
 # [Pivot Table Example](https://github.com/fischtank44/Engine_training_data/raw/master/Excel_data/train_FD001-variation-pivot%20tabel.xlsx)
-This file has a pivot table that shows two of the predictive parameters. T50 LPT variation (rises as the unit approaches end of life) and W32 variation (falls as unit approaches end of life).
+This file has a pivot table that shows the four predictive parameters chosen with each unit as a filter. T50 LPT variation, HTP Bleed variation, and BPR Bypass variation (rises as the unit approaches end of life) and W32 variation (falls as unit approaches end of life).
 
 # [Vlookup Example](https://github.com/fischtank44/Engine_training_data/raw/master/Excel_data/test_FD001_headers_var_v4.xlsx)
 Used to create the ramining_life column in the test data set. The remaining life information was provided in the original dataset and this vlookup adds the value for the number of cycles remaining for each engine in the test dataset. 
