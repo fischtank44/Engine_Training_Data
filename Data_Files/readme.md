@@ -31,7 +31,7 @@ The columns correspond to:
 
 
 
-## Summary of other datasets included but no used in this project. 
+## Summary of other datasets included but not used in this project. 
 Data Set: FD002
 Train trjectories: 260
 Test trajectories: 259
