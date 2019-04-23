@@ -11,7 +11,7 @@ These files demonstrate analysis of data from a NASA study of turbofan engine fa
 2. [CSV file for SQL Upload](https://github.com/fischtank44/Engine_training_data/blob/master/SQL_FILES/train_FD001-variation%20added.csv)
 
 
-## SQL Queries: [SQL Files](https://github.com/fischtank44/Engine_training_data/tree/master/SQL_FILES) <-- Click here for details.
+## SQL Queries: [SQL Files](https://github.com/fischtank44/Engine_training_data/tree/master/SQL_FILES)
 
 3. [SUM, AVG, SUBQUERY, ORDER BY and GROUP BY](https://github.com/fischtank44/Engine_training_data/blob/master/SQL_FILES/SQL_sample_STD_DEV.sql)
 4. [ALTER TABLE](https://github.com/fischtank44/Engine_training_data/blob/master/SQL_FILES/SQL_alter_table.txt)
@@ -21,13 +21,13 @@ These files demonstrate analysis of data from a NASA study of turbofan engine fa
 8. [UNION](https://github.com/fischtank44/Engine_training_data/blob/master/SQL_FILES/SQL_union_test_rul.sql)
 
 
-## Excel Data: [Excel Data](https://github.com/fischtank44/Engine_training_data/tree/master/Excel_data) <-- Click here for details.
+## Excel Data: [Excel Data](https://github.com/fischtank44/Engine_training_data/tree/master/Excel_data)
 
 1. [LOOKUP](https://github.com/fischtank44/Engine_training_data/raw/master/Excel_data/test_FD001_headers_var_v4.xlsx) 
 2. [Pivot table](https://github.com/fischtank44/Engine_training_data/raw/master/Excel_data/train_FD001-variation-pivot%20tabel.xlsx) 
 
 
-## Visualizations: [Tableau Discriptions](https://github.com/fischtank44/Engine_training_data/tree/master/Visualizations) <-- Click here for details.
+## Visualizations: [Tableau Discriptions](https://github.com/fischtank44/Engine_training_data/tree/master/Visualizations)
 
 1. [Join or Blend](https://public.tableau.com/profile/steven.fischbach#!/vizhome/FinalProject-TestDataDashboardv2_0/StatusMonitor)
 2. [Filter](https://public.tableau.com/profile/steven.fischbach#!/vizhome/Finalproject-v2_0/Playbyplayforward?publish=yes)
@@ -35,4 +35,4 @@ These files demonstrate analysis of data from a NASA study of turbofan engine fa
 4. [Dashboard](https://public.tableau.com/profile/steven.fischbach#!/vizhome/Finalproject-v2_0/CautionsvsBigFormula?publish=yes)
 5. [Dashboard Actions](https://public.tableau.com/profile/steven.fischbach#!/vizhome/Finalproject-v2_0/CautionsvsBigFormula?publish=yes)
 
-
+## Data Analysis Using Python Tools: [Flight Engineer](https://github.com/fischtank44/flight_engineer)
